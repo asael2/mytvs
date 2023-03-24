@@ -1,0 +1,245 @@
+#EXTM3U
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",NatGeo
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nat.geo.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/jGkbmgf/Espa-a.png" group-title="Undefined",HBO Signature
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/91989?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HBO 1 CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HBO 2 (East) CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.2.eastern.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO (East) US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.eastern.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO (West) US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.west.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO 2 (East) US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.2.eastern.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO 2 (West) US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.2.pacific.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/hbo-2-logo-png-transparent.png" group-title="Undefined",HBO 2 East UHD
+http://176.57.50.167:25461/536416/231244/22896?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Comedy (East) US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.comedy.east.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Comedy (West)
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.comedy.pacific.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://www.dropbox.com/s/n3rtcte1u76joce/hbo%20comedy.png?dl=1" group-title="Undefined",HBO Comedy UHD
+http://176.57.50.167:25461/536416/231244/22897?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/fb-hbo-480x320.jpg" group-title="Undefined",HBO East UHD
+http://176.57.50.167:25461/536416/231244/22894?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Family (East) US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.family.eastern.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Family (West)
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.family.pacific.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://www.dropbox.com/s/hqpr5oanehv2bmb/hbo%20family.png?dl=1" group-title="Undefined",HBO Family UHD
+http://176.57.50.167:25461/536416/231244/22898?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.pinimg.com/736x/8c/c3/41/8cc341ea1660cb59c0b4ffde59d34e50.jpg" group-title="Undefined",HBO Pacific UHD
+http://176.57.50.167:25461/536416/231244/22899?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Signature (East) US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.signature.hbo.3.eastern.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Signature (West)
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.signature.hbo.3.pacific.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://www.dropbox.com/s/ltshq1dadwn62pg/hbo%20signature.png?dl=1" group-title="Undefined",HBO Signature UHD
+http://176.57.50.167:25461/536416/231244/22900?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/fb-hbo-480x320.jpg" group-title="Undefined",HBO West UHD
+http://176.57.50.167:25461/536416/231244/22895?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Zone (East) US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.zone.east.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Zone (West)
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.zone.pacific.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://www.dropbox.com/s/x9rsgfimcqfbdvq/hbo%20zone.png?dl=1" group-title="Undefined",HBO Zone UHD
+http://176.57.50.167:25461/536416/231244/22901?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="http://esrv.cc:80/images/59a2215ec7a298b931e0c820b9566327.png" group-title="Undefined",Canal Sony FHD (Legendado)
+http://esrv.cc:80/eduardo002/72836392/40043.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK",UK Sony Entertainment (SET)
+http://176.57.50.167:25461/536416/231244/12299?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="News",BBC News
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bbc.news.channel.uk.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",BBC One
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/697?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",BBC London
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bbc.london.uk.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",BBC First
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/11586?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",BBC Entertainment
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/11663?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",Clubland TV
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/144752?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",Comedy Central Extra
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/4656?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Comedy Central UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/comedy.central.uk.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://www.dropbox.com/s/xt67fmc7av71ppm/starz%20comedy.png?dl=1" group-title="Undefined",Starz Comedy UHD
+http://176.57.50.167:25461/536416/231244/22921?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/PARAMOUNT.png" group-title="SPAIN",PARAMOUNT
+http://176.57.50.167:25461/536416/231244/85933?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Paramount
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/paramount.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Paramount Channel SD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69280?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Paramount Channel
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/paramount.channel.ru.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Paramount Comedy
+http://d78722d4.melpakomn.ru/iptv/6S67EMNRR9QAUY/157/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Paramount Network UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/paramount.network.uk.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://www.directhd.tv/wp-content/uploads/2018/09/showtime-east.jpg" group-title="Undefined",Paramount East UHD
+http://176.57.50.167:25461/536416/231244/22906?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Paramount Network (East) US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/paramount.network.usa.eastern.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="News",FOX News
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fox.news.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",FOX HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69252?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/FOCHD.png" group-title="SPAIN",FOX HD
+http://176.57.50.167:25461/536416/231244/85887?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="http://212.8.253.112/logo/SPAIN/FOXLIFEHD.png" group-title="SPAIN",FOX LIFE HD
+http://176.57.50.167:25461/536416/231244/85888?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/FOCNEWS.png" group-title="SPAIN",FOX NEWS
+http://176.57.50.167:25461/536416/231244/85917?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",FOX 11 Los Angeles CA (KTTV) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTTV-Monetizer.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",FOX 35 Orlando FL (WOFL) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WOFL-Monetizer.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",FOX 5 Washington DC (WTTG) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WTTG-Monetizer.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Fox Life
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fox.life.ru.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/jGkbmgf/Espa-a.png" group-title="Undefined",MOVISTAR Estrenos
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1143?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Moviestar Estrenos 2
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/movistar.estrenos.2.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Movistar Accion
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/movistar.accion.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Movistar Accion FHD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69206?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Movistar Alquiler 1 FHD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69328?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Movistar Comedia
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/movistar.comedia.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Movistar DCine
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/movistar.dcine.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Movistar Formula 1
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/movistar.formula.1.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",Movistar Golf FHD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69365?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Movistar Multideporteⓧ SD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69136?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Movistar Series
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/movistar.series.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Movistar Series Mania SD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69307?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="http://xtra.fireottplus.com:2052/images/be34dcdae62e988fc56923cd6e143942.png" group-title="FRANCE",HD CARTOON NETWORK
+http://xtra.fireottplus.com:2052/017458648389/407609858756/96904?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Cartoon Network DE
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cartoon.network.de.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="MEXICO",Cartoon Network México (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Cartoon Network RO
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cartoon.network.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Cartoon Network UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cartoon.network.uk.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",Cartoon Network
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/720?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cartoon Network (East) US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cartoon.network.usa.eastern.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cartoon Network (West) US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cartoon.network.usa.pacific.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",FX CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fx.networks.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FX Movie Channel
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fx.movie.channel.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FX Network (West) US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fxpacific.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FX Networks (East) US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fx.networks.east.coast.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="http://esrv.cc:80/images/994830c6a00a692f50889d22911e6137.png" group-title="Undefined",FX HD (Legendado)
+http://esrv.cc:80/eduardo002/72836392/40039.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CNN CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cnn.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/jGkbmgf/Espa-a.png" group-title="Undefined",CNN en Espanol
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/31762?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="News",NEWS: CNN
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/876?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CNN UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cnn.uk.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CNN US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cnn.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="http://fireott.quest:2052/images/e24df28e0e214794a3ee40ff6b704962.png" group-title="Undefined",HD MTV LIVE
+http://xtra.fireottplus.com:2052/017458648389/407609858756/241339?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="http://esrv.cc:80/images/76601c5ad504f8ec2689283f2d64ec75.png" group-title="Undefined",MTV 4K
+http://esrv.cc:80/DgClovis/App12@tvbox/41474.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="http://esrv.cc:80/images/76601c5ad504f8ec2689283f2d64ec75.png" group-title="Undefined",MTV FHD
+http://esrv.cc:80/eduardo002/72836392/31908.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="http://a5.vc/cnP" group-title="Undefined",MTV Live FHD
+http://esrv.cc:80/eduardo002/72836392/31498.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA MTV
+http://176.57.50.167:25461/536416/231244/21964?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",MTV HITS HD
+http://176.57.50.167:25461/536416/231244/84798?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",MTV
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/3486?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/jGkbmgf/Espa-a.png" group-title="Undefined",MTV
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/29307?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",MTV 90s
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69459?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/MTVROCKS.png" group-title="SPAIN",MTV ESP
+http://176.57.50.167:25461/536416/231244/85928?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",MTV Hits Europe SD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69178?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",MTV
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/mtv.uk.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",MTV Classic
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/mtv.classic.uk.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",MTV HITS
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/mtv.hits.uk.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Music",MTV Music UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/mtv.music.uk.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV (East) US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/mtv.usa.eastern.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV 2 US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/mtv.2.east.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",MTV USA (West)
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/mtv.usa.pacific.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",MTV 80s
+http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/724/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",MTV 90s
+http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/1038/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",MTV Base UK
+http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19198/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",MTV Classic
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/mtv.classic.rs.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",MTV Hits
+http://myott.top/stream/DT6QU63K5VX/302.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg" group-title="Undefined",Discovery Science
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/192878?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AR" tvg-logo="http://fireott.quest:2052/images/382915af944bd805b3de25c21ed846b7.png" group-title="Undefined",HD DISCOVERY
+http://xtra.fireottplus.com:2052/017458648389/407609858756/447?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AR" tvg-logo="http://fireott.quest:2052/images/2a7db454da6b701c26e4a7a8a28f0744.png" group-title="Undefined",HD DISCOVERY SCIENCE
+http://xtra.fireottplus.com:2052/017458648389/407609858756/448?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA DISCOVERY SCIENCE
+http://176.57.50.167:25461/536416/231244/21907?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA Discovery Channel
+http://176.57.50.167:25461/536416/231244/21906?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Discovery Channel CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/discovery.channel.can.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DISCOVERY CHANNEL
+http://176.57.50.167:25461/536416/231244/84705?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Undefined",Discovery NO
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/discovery.channel.no.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",Discovery Channel
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10151?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Discovery Channel
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/discovery.channel.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/DISCOVERY.png" group-title="SPAIN",DISCOVERY
+http://176.57.50.167:25461/536416/231244/85929?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Discovery Channel HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69319?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Discovery Channel
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/discovery.channel.ru.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Discovery History UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/discovery.history.uk.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Investigation Discovery
+http://myott.top/stream/DT6QU63K5VX/205.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",NatGeo Wild HD
+http://176.57.50.167:25461/536416/231244/83463?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",NatGeo Wild HD CA
+http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6473/index.m3u8?checkedby:iptvcat.com
